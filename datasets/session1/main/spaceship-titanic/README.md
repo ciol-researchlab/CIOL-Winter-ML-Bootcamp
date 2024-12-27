@@ -22,3 +22,7 @@ In this competition your task is to predict whether a passenger was transported 
 - sample_submission.csv - A submission file in the correct format.
 PassengerId - Id for each passenger in the test set.
 Transported - The target. For each passenger, predict either True or False.
+
+
+
+
