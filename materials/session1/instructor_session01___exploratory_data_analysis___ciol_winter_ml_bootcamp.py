@@ -4,8 +4,6 @@
 ### What is **Exploratory Data Analysis (EDA)**?  
 Exploratory Data Analysis (EDA) is a process of examining and analyzing data to uncover patterns, detect anomalies, test hypotheses, and summarize its main characteristics, often using visual and statistical techniques. It is typically the first step in the data analysis pipeline and helps in understanding the data structure, relationships, and underlying patterns.
 
-Let's wait till 8:35
-
 ### Why is EDA Important?  
 EDA is critical for several reasons:  
 1. **Data Understanding**:  It provides a deep understanding of the dataset, such as its shape, size, types of variables, and missing values.  
