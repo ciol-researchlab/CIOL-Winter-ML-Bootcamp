@@ -1,0 +1,3 @@
+This is a large-scale Bangla dataset based on positive, negative, and and neutral comments. It has four features: platform, where we get the comments; sources; comment; sentiment; and label.
+
+There are four columns which are Platform, Comment, Sentiment, and Label. I have collected Bangla comments from Twitter, Youtube, and Google. Comment is about positive, negative, and neutral. Sentiment is about making toxic, neutral, sad, funny, and happy comments that are labeled by 0, 1, 2, 3, and 4.
