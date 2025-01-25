@@ -1,8 +1,11 @@
 
 # **CIOL** Presents **Winter ML Bootcamp**
 
-CIOL Winter ML Bootcamp is a basic to advanced technical workshop designed for CIOL members and select external participants. This 1 month long bootcamp aims to build proficiency in machine learning (ML) with a focus on practical applications, assignments, and research-oriented projects. Our goal is to enable participants to gain hands-on experience, contribute to publishable research, and build an impressive GitHub portfolio. For more details: https://ciol-researchlab.github.io/events/Winter-ML-Bootcamp.html
+CIOL Winter ML Bootcamp is a basic to advanced technical workshop designed for CIOL members and select external participants. This 1 month long bootcamp aims to build proficiency in machine learning (ML) with a focus on practical applications, assignments, and research-oriented projects. Our goal is to enable participants to gain hands-on experience, contribute to publishable research, and build an impressive GitHub portfolio.
 
+**Check here**:
+-  [Website](https://ciol-researchlab.github.io/events/Winter-ML-Bootcamp.html)
+- [YT Playlist](https://www.youtube.com/watch?v=ubl-StTwlOo&list=PL9ZzhIxOKAmuMBkWbwAAg5hGFnIUOSu8v)
 
 ### Event Details:
 - Date: 26 December, 2024 to 06 February, 2025
@@ -10,25 +13,40 @@ CIOL Winter ML Bootcamp is a basic to advanced technical workshop designed for C
 - Total Class Time: ~16–20 hours
 - Assignment Time: ~20–30 hours
 - Gap Between Classes: Minimum 2 days (for assignment submission)
-- Duration per Class: 2–2.5 hours
+- Duration per Class: 1.5–2.5 hours
 - Prerequisite: Basic knowledge of Python, including input, variable handling, lists, dictionaries, functions, and file operations
-
 
 
 ### Event Materials
 
-| **Session**                               | **Recording**                     | **Session Materials**                     | **Assignments**                           |
-|-------------------------------------------|------------------------------------|-------------------------------------------|-------------------------------------------|
-| Orientation | [Watch Recording](https://www.youtube.com/watch?v=ubl-StTwlOo) | [Materials](./materials/session0/) | - |
-| Session 1: Exploratory Data Analysis (EDA) | - | [Materials](./materials/session1/) | [Assignments](./assignments/session1/) |
-| Session 2: Tabular Data Model Training     | - | [Materials](./materials/session2/) | [Assignments](./assignments/session2/) |
-| Session 3: Hyperparameter Tuning and Model Selection | - | [Materials](./materials/session3/) | [Assignments](./assignments/session3/) |
-| Session 4: Pre-trained Models for Text     | - | [Materials](./materials/session4/) | [Assignments](./assignments/session4/) |
-| Bonus: Research and Writing       | - | [Materials](./materials/ResearchWriting/)   | [Assignments](./assignments/ResearchWriting/)   |
-| Session 5: Pre-trained Models for Images   | - | [Materials](./materials/session5/) | [Assignments](./assignments/session5/) |
-| Session 6: LLM Fine-tuning                 | - | [Materials](./materials/session6/) | [Assignments](./assignments/session6/) |
-| Session 7: Explainable AI (XAI)            | - | [Materials](./materials/session7/) | [Assignments](./assignments/session7/) |
-| Session 8: Research (Problem to Code)      | - | [Materials](./materials/session8/) | [Assignments](./assignments/session8/) |
-| Endling      | - | [Materials](./materials/session8/) | [Assignments](./assignments/session8/) |
+| **Session**| **Instructor**| **Recording**| **Materials**  |
+|-------|------|------|-----|
+| Orientation | - |  [Youtube](https://www.youtube.com/watch?v=ubl-StTwlOo) | - |
+| Session 1: Exploratory Data Analysis (EDA) | [Azmine Toushik Wasi](https://azminewasi.github.io/) | [Youtube](https://youtu.be/Ybafilfay48?feature=shared) | [Materials](https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp/tree/main/materials/session1) |
+| Session 2: Tabular Data Model Training | [Azmine Toushik Wasi](https://azminewasi.github.io/)     | [Youtube](https://youtu.be/KXxgrGGNVoo?feature=shared) | [Materials](https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp/tree/main/materials/session2) | 
+| Session 3: Hyperparameter Tuning and Model Selection | [Azmine Toushik Wasi](https://azminewasi.github.io/) | [Youtube](https://youtu.be/8evaGgh7bNw?feature=shared) | [Materials](https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp/tree/main/materials/session3) | 
+| Session 3 - Bonus : Building Artificial Neural Networks | [Azmine Toushik Wasi](https://azminewasi.github.io/) | [Youtube](https://www.youtube.com/watch?v=-jR97n9zfvA) | [Materials](https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp/tree/main/materials/session3) | 
+| Session 4: Pre-trained Models for Text  | Sheikh Ayatur Rahman   | [Youtube](https://youtu.be/8HKT9U66YNc?feature=shared) | [Materials](https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp/tree/main/materials/session4) | 
+| Research and Writing: How To Write Shared Task Papers | [Azmine Toushik Wasi](https://azminewasi.github.io/)       | [Youtube](https://www.youtube.com/watch?v=3ownvMBVoOo) | - | 
+| Session 5: Pre-trained Models for Images | [Azmine Toushik Wasi](https://azminewasi.github.io/)   | [Youtube](https://youtu.be/KImPr2B3WYI?feature=shared) | [Materials](https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp/tree/main/materials/session5) | 
+| Session 6: LLM Agents | [Azmine Toushik Wasi](https://azminewasi.github.io/)                 | *Upcoming...* | [Materials]() | 
+| Session 7: Explainable AI (XAI)   | MD Shafiqul Islam      | [Youtube]() | [Materials]() | 
+| Session 8: Research (Problem to Code)  | MD Shafiqul Islam      | [Youtube]() | [Materials]() | 
+| Ending      | -  | [Youtube]() | [Materials]() | 
 
-Let me know if you need further customization or specific links!
+
+---
+
+If you use it, cite:
+
+*Azmine Toushik Wasi. (2024). CIOL Presnts Winer ML BootCamp. https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp*
+
+```
+@misc{wasi2024CIOL-WMLB,
+      title={CIOL Presnts Winer ML BootCamp},
+      author={Azmine Toushik Wasi, Sheikh Ayatur Rahman, MD Shakiqul Islam},
+      publisher = {Computational Intelligence and Operations Laboratory (CIOL)},
+      year={2024},
+      url={https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp},
+}
+```
