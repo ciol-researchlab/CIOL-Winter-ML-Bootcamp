@@ -31,7 +31,7 @@ CIOL Winter ML Bootcamp is a basic to advanced technical workshop designed for C
 | Session 5: Pre-trained Models for Images | Azmine Toushik Wasi   | [Youtube](https://youtu.be/KImPr2B3WYI?feature=shared) | [Materials](https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp/tree/main/materials/session5) | 
 | Session 6: LLM Agents | Azmine Toushik Wasi                 | [Youtube](https://www.youtube.com/watch?v=QHOuBvgeTtU) | [Materials](https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp/tree/main/materials/session6) | 
 | Session 7: Explainable AI (XAI)   | MD Shafikul Islam      | [Youtube](https://www.youtube.com/watch?v=0km_g_ydFk4) | [Materials](https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp/tree/main/materials/session7) | 
-| Session 8: Research (Problem to Code)  | MD Shafikul Islam      | [Youtube]() | [Materials]() | 
+| Session 8: Research (Problem to Code)  | MD Shafikul Islam      | [Youtube](https://www.youtube.com/watch?v=fMdd6zcutws) | [Materials](https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp/tree/main/materials/session8) | 
 
 ---
 
