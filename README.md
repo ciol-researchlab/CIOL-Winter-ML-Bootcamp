@@ -41,10 +41,11 @@ If you use it, cite:
 
 ```
 @misc{wasi2024CIOL-WMLB,
-      title={CIOL Presnts Winer ML BootCamp},
-      author={Azmine Toushik Wasi, MD Shakiqul Islam, Sheikh Ayatur Rahman},
+      title={CIOL Presnts Winter ML BootCamp},
+      author={Azmine Toushik Wasi and MD Shakiqul Islam and Sheikh Ayatur Rahman and Md Manjurul Ahsan},
       publisher = {Computational Intelligence and Operations Laboratory (CIOL)},
       year={2024},
       url={https://github.com/ciol-researchlab/CIOL-Winter-ML-Bootcamp},
+    note={6 December, 2024 to 6 February, 2025}
 }
 ```
